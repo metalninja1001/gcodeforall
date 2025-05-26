@@ -1,4 +1,2 @@
-# <p align="center">Octocat</p>
-
-### 📽 Demo Video 📽
+# 📽 Demo Video 📽
 [Octocat]
