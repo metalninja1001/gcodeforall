@@ -1,4 +1,4 @@
-# <p align="center>Octocat</p>
+# <p align="center">Octocat</p>
 
 ### 📽 Demo Video 📽
 [Octocat]
