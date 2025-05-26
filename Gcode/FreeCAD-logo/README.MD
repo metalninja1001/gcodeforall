@@ -1,3 +1,3 @@
 # 📽 Video Demo 📽
 
-### [FreeCAD Logo]()
+### [FreeCAD Logo](https://youtu.be/kwWZK7lOyQQ)
